@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+    padding: 20px;
+}
+.title{
+    color:blue;
+}
+.bigtitle{
+    font-size: 80px;
+}
+h2{
+    color:red;
+}
+#title{
+    color:yellow;
+}
+p{
+    width:100px;
+}
+
+.div1{
+    width:100px;
+    height: 100px;
+    background-color: black;
+    /* margin:10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.div2{
+    width:100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.div3{
+    width:50px;
+    height: 50px;
+    background-color: red;
+}
